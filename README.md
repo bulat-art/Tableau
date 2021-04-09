@@ -9,5 +9,6 @@
 **2. Динамика продаж**  
 **3. Продажи по категориям**  
 **4. Продажи по штатам** 
+*Ссылка на [dashboard](https://public.tableau.com/profile/bulat3014#!/vizhome/Fisrt_project/Dashboard1)*
 
 ![image](https://user-images.githubusercontent.com/72130121/114247804-bd047300-999e-11eb-9542-fa9f60b5838e.png)
